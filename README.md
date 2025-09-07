@@ -6,7 +6,7 @@ Welcome to the repository for **AI 391L - Machine Learning** at UTMSCO. This rep
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/AI-391L-ML.git
+    git clone https://github.com/gajeraYash/AI-391L-ML.git
     ```
 
 2. Navigate to the repository directory:
